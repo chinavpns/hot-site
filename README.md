@@ -30,63 +30,63 @@ OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工
 
 ## 大陆用户翻墙后常用的国外社交网站
 
-### <a href="https://telegram.org/">Telegram</a>
+### 1. <a href="https://telegram.org/">Telegram</a>
 
 Telegram是翻墙后必备的通讯神器，它在国内外拥有海量用户，安全性极高，支持端对端加密，可以设置消息自动销毁，绝对保护你的隐私。Telegram的群组功能超强大，单个群最多可容纳20万人，让你轻松找到志同道合的朋友。最酷的是它的机器人生态系统，从翻译到下载，从提醒到游戏，各种实用功能应有尽有。Telegram界面简洁、操作流畅，一旦用上就再也离不开！无论是日常聊天还是获取各类资源，Telegram都是翻墙后的第一选择。如果你还没有Telegram帐号，请查看：Telegram注册教程。
 
-### <a href="https://twitter.com">Twitter/X</a>：全球热门微博平台
+### 2. <a href="https://twitter.com">Twitter/X</a>
 
 想要第一时间获取全球热点动态？Twitter（现更名为X）绝对是你翻墙后的必访之地。在这个全球最活跃的社交平台上，你可以关注名人明星、政治家、专家学者，随时掌握时事热点。许多重大新闻都是在Twitter上首发的，不少"爆料"也会第一时间出现在这里。如果你想知道世界各地正在发生什么，或者想围观各种热门话题，打开Twitter就对了。
 
-### <a href="https://facebook.com">Facebook</a>：全球最大社交网络
+### 3. <a href="https://facebook.com">Facebook</a>
 
 Facebook堪称全球最大的社交网络，是许多人翻墙后的首选平台。与微信朋友圈不同，Facebook允许你自由地发表观点，分享生活点滴，浏览来自世界各地的信息。在这里你不仅能与老朋友保持联系，还可以结交来自不同国家的新朋友。如果你有海外的亲戚朋友，Facebook几乎是必备的交流工具，毕竟在国外，说一句"加我Facebook"比"加我微信"通用多了。
 
-### <a href="https://instagram.com">Instagram</a>：图片和短视频分享平台
+### 4. <a href="https://instagram.com">Instagram</a>
 
 如果你喜欢分享美照和短视频的话，那么Instagram绝对是你的菜。这个以图片为主的社交平台充满了精美的照片和短视频，从旅行风景到美食穿搭，应有尽有。全球众多明星和KOL都在这里分享他们的日常生活，你能看到比国内平台更加真实、不加滤镜的内容。Instagram的故事功能(Stories)让用户可以发布仅在24小时内可见的临时内容，非常适合记录生活中的小确幸。
 
-### <a href="https://linkedin.com">LinkedIn</a>：专业人士社交网络
+### 5. <a href="https://linkedin.com">LinkedIn</a>
 
 与其他社交网站不同，LinkedIn专注于职业社交，是全球专业人士的聚集地。如果你想拓展职业人脉、寻找国际工作机会，或者了解全球行业动态，LinkedIn是不二之选。这里聚集了各行各业的精英和企业，你可以展示自己的职业技能、发布专业文章，甚至直接与梦想公司的HR联系。对于有国际职业发展规划的人来说，LinkedIn账号几乎和简历一样重要。
 
-### <a href="https://reddit.com">Reddit</a>：热门主题社区与讨论论坛
+### 6. <a href="https://reddit.com">Reddit</a>
 
 Reddit被称为"互联网的首页"，这个基于社区的平台分为无数个"子版块"(subreddits)，几乎覆盖了你能想到的所有话题。与其他社交网站相比，Reddit更注重内容而非个人形象，用户通常使用匿名身份自由讨论各种话题。在这里你可以找到最新的科技资讯、深度讨论，甚至是稀奇古怪的冷知识。Reddit的投票系统确保优质内容能浮到顶部，帮助你不错过任何精彩讨论。
 
-### <a href="https://pinterest.com">Pinterest</a>：创意灵感分享平台
+### 7. <a href="https://pinterest.com">Pinterest</a>
 
 Pinterest是一个以图片"钉板"为特色的平台，让你可以收集和整理自己喜欢的各种创意、设计、食谱、装修灵感等。与其他社交媒体不同，Pinterest不关注你是谁，而是你喜欢什么。许多设计师、艺术家和DIY爱好者都把Pinterest当作灵感来源，无论你是想改造家居、寻找穿搭灵感，还是计划一场婚礼，这里都能找到海量参考。
 
-### <a href="https://snapchat.com">Snapchat</a>：年轻人喜爱的社交应用
+### 8. <a href="https://snapchat.com">Snapchat</a>
 
 Snapchat是年轻人的狂欢地，这个以"阅后即焚"功能出名的社交应用让用户分享的照片和视频在被查看后自动消失。Snapchat引入了AR滤镜、Bitmoji虚拟形象等创新功能，深受Z世代喜爱。这里的交流更加随意和真实，没有其他平台那么多修饰和包装，用户可以分享生活中的点滴瞬间而不必担心永久留痕。如果你想体验年轻人的社交方式，Snapchat值得一试。
 
-### <a href="https://discord.com">Discord</a>：游戏和兴趣社区平台
+### 9. <a href="https://discord.com">Discord</a>
 
 Discord最初是为游戏玩家设计的语音聊天平台，现在已经发展成为各类兴趣社区的聚集地。与传统社交媒体不同，Discord以"服务器"为单位组织用户，每个服务器又分为不同的文字和语音频道。在这里你可以找到从游戏、音乐到编程、投资的各种社区，与志同道合的人实时交流。Discord的语音质量极佳，还支持屏幕共享，是远程协作和线上聚会的理想选择。
 
-### <a href="https://whatsapp.com">WhatsApp</a>：全球最流行的即时通讯应用
+### 10. <a href="https://whatsapp.com">WhatsApp</a>
 
 WhatsApp是全球使用最广泛的即时通讯应用，在欧洲、南美和印度等地区几乎是标配。与微信不同，WhatsApp主打简洁和安全，提供端到端加密，确保你的通讯内容只有你和接收者能看到。WhatsApp支持发送文字、语音、图片、视频以及文件，还有群组功能和语音/视频通话。如果你有海外朋友或计划出国旅行，WhatsApp绝对是必备的通讯工具。
 
-### <a href="https://tiktok.com">TikTok</a>：全球流行短视频平台
+### 11. <a href="https://tiktok.com">TikTok</a>
 
 TikTok作为全球现象级的短视频平台，让创作和分享有趣内容变得前所未有地简单。这款由中国字节跳动公司开发的国际版抖音，凭借其强大的推荐算法和简单易用的编辑工具，迅速征服了全球年轻人。在TikTok上，你可以看到各种各样的创意内容，从搞笑视频、舞蹈挑战到知识分享、生活技巧，应有尽有。与国内版本相比，国际版TikTok的内容审核相对宽松，创作自由度更高。
 
-### <a href="https://threads.net">Threads</a>：Meta旗下的文字社交平台
+### 12. <a href="https://threads.net">Threads</a>
 
 Threads是Meta（原Facebook）推出的新社交平台，专注于文字交流和公共对话，可以看作是对Twitter/X的直接挑战。这个与Instagram关联的平台让用户可以轻松分享想法、新闻和创意。Threads的界面简洁直观，限制更少，氛围相对友好，吸引了不少对Twitter/X环境感到失望的用户。如果你已经有Instagram账号，只需点击几下就能开始使用Threads，无需重新建立社交网络。
 
-### <a href="https://quora.com">Quora</a>：问答社区
+### 13. <a href="https://quora.com">Quora</a>
 
 Quora是一个高质量的问答社区，可以看作是国际版的知乎。在这里，你可以提出问题或回答他人的疑惑，与来自世界各地的专家和普通用户交流。与知乎相比，Quora的用户群体更加国际化，话题覆盖更广，从科学技术到人生哲学，从职业发展到个人爱好，几乎什么都能问。Quora上活跃着各行各业的资深人士，包括CEO、作家、科学家等，他们的回答往往深入浅出，富有洞见。
 
-### <a href="https://signal.org">Signal</a>：注重隐私的通讯应用
+### 14. <a href="https://signal.org">Signal</a>
 
 Signal是当今最安全的通讯应用之一，由加密通讯专家和隐私倡导者开发。这款注重隐私的即时通讯工具使用开源代码，提供端到端加密，甚至连服务商自己都无法看到你的通讯内容。Signal的设计理念是"收集尽可能少的用户数据"，它不会存储你的个人信息或通讯记录。尽管功能不如某些主流应用丰富，但对于那些重视隐私安全的用户，尤其是记者、活动人士和商业人士，Signal是不二之选。
 
-### <a href="https://line.me">Line</a>：亚洲流行的社交媒体和通讯应用
+### 15. <a href="https://line.me">Line</a>
 
 Line在日本、台湾、泰国等亚洲地区非常流行，被称为这些地区的"国民级"通讯应用。Line的特色是丰富多彩的表情贴图（Stickers），这些可爱的角色表情已经成为Line的标志性特点。除了基本的即时通讯功能，Line还提供了支付、新闻、游戏等多种服务，构建了一个完整的生态系统。如果你对日本文化感兴趣，或者有日本、台湾的朋友，Line是必不可少的社交工具。
 
