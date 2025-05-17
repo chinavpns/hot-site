@@ -18,7 +18,9 @@
 
 * **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN（老牌VPN，支持支付宝付款）</a>**：综合性价比较高的老牌VPN软件，在中国大陆翻墙也很稳定。它采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏，同样拥有较高的安全性。它在30多个国家和地区部署了950台服务器，可解锁Netflix、BBC iPlayer、Hulu、HBO、Sky Go等流媒体平台，能流畅地观看YouTube 1080P高清视频，且其所有服务器都支持P2P文件共享和BT种子下载。它适用于Windows、Mac、iOS、Android、Amazon FireTV等设备，并支持12台设备同时连接。其价格也比较便宜，每月3.97美元（年付47.69美元），支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！
 
-OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工具。它们不仅安全性高，能够解锁本文推荐的所有国外网站，而且连接速度在整个行业中也是名列前茅。这两款翻墙工具为所有常见设备都提供了专用的APP客户端（如果你不知道如何下载VPN iOS APP，可以查看"<a href="https://github.com/chinavpns/iosvpn.github.io">苹果翻墙教程</a>"）。更棒的是，它们还提供24小时在线客服和30天退款保证，不满意可以随时全额退款！若想了解更多详情，请查看：<a href="https://chinavpns.github.io/">科学上网指南</a>
+OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工具。它们不仅安全性高，能够解锁本文推荐的所有国外网站，而且连接速度在整个行业中也是名列前茅。这两款翻墙工具为所有常见设备都提供了专用的APP客户端。更棒的是，它们还提供24小时在线客服和30天退款保证，不满意可以随时全额退款！若想了解更多详情，请查看：<a href="https://chinavpns.github.io/">科学上网指南</a>
+
+小提示：由于苹果中国区APP Store已下架所有VPN相关软件，如果你不知道怎么在iOS设备上下载安装VPN APP，请参阅：<a href="https://github.com/chinavpns/iosvpn.github.io">苹果翻墙教程</a>。
 
 ## 2025年翻墙后的注意事项
 
