@@ -14,9 +14,9 @@
 
 众所周知，由于防火长城GFW的封锁，很多非常优秀的国外网站在中国大陆都无法访问！如果你身处中国大陆，而且想要访问这些海外网站的话，就必须要先解决翻墙的问题。下面是我们比较推荐的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>：
 
-* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN（限时钜惠，30天退款保证）</a>** - 最推荐使用的翻墙VPN，在中国大陆翻墙非常稳定，在业内拥有良好的口碑。它采用军事级别加密，实行严格的零日志政策，内置终止开关、IP/DNS泄漏保护、广告和恶意软件拦截等高级功能，安全性非常高。它也是行业内连接速度最快的VPN，在105个国家部署了3000台服务器，可轻松解锁Netflix、Youtube、ChatGPT、TikTok等海外网站，也非常适合用于玩游戏和下载BT种子文件。它为Windows、MacOS、iOS、Android、路由器等设备提供专用的APP客户端，并支持8台设备同时登录使用。现在购买2年套餐，额外赠送6个月，每月仅需4.99美元，提供24小时在线客服和30天退款保证，不满意可获全额退款！
+* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN（限时钜惠，30天退款保证）</a>**：最推荐使用的翻墙VPN，在中国大陆翻墙非常稳定，在业内拥有良好的口碑。它采用军事级别加密，实行严格的零日志政策，内置终止开关、IP/DNS泄漏保护、广告和恶意软件拦截等高级功能，安全性非常高。它也是行业内连接速度最快的VPN，在105个国家部署了3000台服务器，可轻松解锁Netflix、Youtube、ChatGPT、TikTok等海外网站，也非常适合用于玩游戏和下载BT种子文件。它为Windows、MacOS、iOS、Android、路由器等设备提供专用的APP客户端，并支持8台设备同时登录使用。现在购买2年套餐，额外赠送6个月，每月仅需4.99美元，提供24小时在线客服和30天退款保证，不满意可获全额退款！
 
-* **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN（支持支付宝付款）</a>** - 综合性价比较高的老牌VPN软件，在中国大陆翻墙也很稳定。它采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏，同样拥有较高的安全性。它在30多个国家和地区部署了950台服务器，可解锁Netflix、BBC iPlayer、Hulu、HBO、Sky Go等流媒体平台，能流畅地观看YouTube 1080P高清视频，且其所有服务器都支持P2P文件共享和BT种子下载。它适用于Windows、Mac、iOS、Android、Amazon FireTV等设备，并支持12台设备同时连接。其价格也比较便宜，每月3.97美元（年付47.69美元），支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！
+* **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN（老牌VPN，支持支付宝付款）</a>**：综合性价比较高的老牌VPN软件，在中国大陆翻墙也很稳定。它采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏，同样拥有较高的安全性。它在30多个国家和地区部署了950台服务器，可解锁Netflix、BBC iPlayer、Hulu、HBO、Sky Go等流媒体平台，能流畅地观看YouTube 1080P高清视频，且其所有服务器都支持P2P文件共享和BT种子下载。它适用于Windows、Mac、iOS、Android、Amazon FireTV等设备，并支持12台设备同时连接。其价格也比较便宜，每月3.97美元（年付47.69美元），支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！
 
 OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工具。它们不仅安全性高，能够解锁本文推荐的所有国外网站，而且连接速度在整个行业中也是名列前茅。这两款翻墙工具为所有常见设备都提供了专用的APP客户端（如果你不知道如何下载VPN iOS APP，可以查看"<a href="https://github.com/chinavpns/iosvpn.github.io">苹果翻墙教程</a>"）。更棒的是，它们还提供24小时在线客服和30天退款保证，不满意可以随时全额退款！若想了解更多关于ExpressVPN和StrongVPN的详情，请查看：<a href="https://chinavpns.github.io/">科学上网指南</a>
 
