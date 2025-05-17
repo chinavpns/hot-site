@@ -30,7 +30,7 @@ OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工
 
 ## 大陆用户翻墙后常用的国外社交网站
 
-* **<a href="https://telegram.org/">Telegram</a>**：Telegram是翻墙后必备的通讯神器，它在国内外拥有海量用户，安全性极高，支持端对端加密，可以设置消息自动销毁，绝对保护你的隐私。Telegram的群组功能超强大，单个群最多可容纳20万人，让你轻松找到志同道合的朋友。最酷的是它的机器人生态系统，从翻译到下载，从提醒到游戏，各种实用功能应有尽有。Telegram界面简洁、操作流畅，一旦用上就再也离不开！无论是日常聊天还是获取各类资源，Telegram都是翻墙后的第一选择。如果你还没有Telegram帐号，请查看：<a href="https://github.com/chinavpns/telegram">Telegram注册教程</a>。
+* **<a href="https://telegram.org/">Telegram</a>**：Telegram是翻墙后必备的通讯神器，它在国内外拥有海量用户，安全性极高，支持端对端加密，可以设置消息自动销毁，绝对保护你的隐私。Telegram的群组功能超强大，单个群最多可容纳20万人，让你轻松找到志同道合的朋友。最酷的是它的机器人生态系统，从翻译到下载，从提醒到游戏，各种实用功能应有尽有。Telegram界面简洁、操作流畅，一旦用上就再也离不开！无论是日常聊天还是获取各类资源，Telegram都是翻墙后的第一选择。如果你还没有Telegram帐号，请查看：<a href="https://github.com/chinavpns/telegram">Telegram注册教程</a>
 
 * **<a href="https://twitter.com">Twitter/X</a>**：想要第一时间获取全球热点动态？Twitter（现更名为X）绝对是你翻墙后的必访之地。在这个全球最活跃的社交平台上，你可以关注名人明星、政治家、专家学者，随时掌握时事热点。许多重大新闻都是在Twitter上首发的，不少"爆料"也会第一时间出现在这里。如果你想知道世界各地正在发生什么，或者想围观各种热门话题，打开Twitter就对了。
 
@@ -334,8 +334,8 @@ OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工
 
 小提醒：对于翻墙新手来说，别在寻找和测试各种翻墙工具上浪费太多时间啦！如果你还在纠结用什么工具，不妨直接看看下面这两款中国大陆<a href="https://github.com/chinavpns/chinavpns.github.io">最好用的VPN</a>：
 
-* **翻墙工具首选：<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN（限时钜惠，30天退款保证）</a>** - 最推荐使用的翻墙VPN，在中国大陆翻墙非常稳定，在业内拥有良好的口碑。它采用军事级别加密，实行严格的零日志政策，内置终止开关、IP/DNS泄漏保护、广告和恶意软件拦截等高级功能，安全性非常高。它也是行业内连接速度最快的VPN，在105个国家部署了3000台服务器，可轻松解锁Netflix、Youtube、ChatGPT、TikTok等海外网站，也非常适合用于玩游戏和下载BT种子文件。它为Windows、MacOS、iOS、Android、路由器等设备提供专用的APP客户端，并支持8台设备同时登录使用。现在购买2年套餐，额外赠送6个月，每月仅需4.99美元，提供24小时在线客服和30天退款保证，不满意可获全额退款！
+* **翻墙工具首选：<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN（限时钜惠，30天退款保证）</a>** - 最推荐使用的翻墙VPN，在中国大陆翻墙非常稳定，在业内拥有良好的口碑。它采用军事级别加密，实行严格的零日志政策，内置终止开关、IP/DNS泄漏保护、广告和恶意软件拦截等高级功能，安全性非常高。它也是行业内连接速度最快的VPN，在105个国家部署了3000台服务器，可轻松解锁Netflix、Youtube、ChatGPT、TikTok等海外网站，也非常适合用于玩游戏和下载BT种子文件。它为Windows、MacOS、iOS、Android、路由器等设备提供专用的APP客户端，并支持8台设备同时登录使用。现在购买2年套餐，额外赠送6个月，每月仅需4.99美元，提供24小时在线客服和30天退款保证，不满意可获全额退款！更多详情请查看：<a href="https://github.com/chinavpns/expressvpn">ExpressVPN怎么样？</a>
 
-* **翻墙工具备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN（支持支付宝付款）</a>** - 综合性价比较高的老牌VPN软件，在中国大陆翻墙也很稳定。它采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏，同样拥有较高的安全性。它在30多个国家和地区部署了950台服务器，可解锁Netflix、BBC iPlayer、Hulu、HBO、Sky Go等流媒体平台，能流畅地观看YouTube 1080P高清视频，且其所有服务器都支持P2P文件共享和BT种子下载。它适用于Windows、Mac、iOS、Android、Amazon FireTV等设备，并支持12台设备同时连接。其价格也比较便宜，每月3.97美元（年付47.69美元），支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！
+* **翻墙工具备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN（支持支付宝付款）</a>** - 综合性价比较高的老牌VPN软件，在中国大陆翻墙也很稳定。它采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏，同样拥有较高的安全性。它在30多个国家和地区部署了950台服务器，可解锁Netflix、BBC iPlayer、Hulu、HBO、Sky Go等流媒体平台，能流畅地观看YouTube 1080P高清视频，且其所有服务器都支持P2P文件共享和BT种子下载。它适用于Windows、Mac、iOS、Android、Amazon FireTV等设备，并支持12台设备同时连接。其价格也比较便宜，每月3.97美元（年付47.69美元），支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！更多详情请查看：<a href="https://github.com/chinavpns/strongvpn">StrongVPN怎么样？</a>
 
 最后，虽然翻墙让我们能自由访问全球网络，但请记住我们提到的注意事项哦。翻墙的真正目的是学习新知识、拓展视野，而不是浏览或传播那些不良内容，比如恐怖主义、极端言论、暴力或色情信息。让我们正确使用这扇通往世界的窗口，让自己变得更优秀！
