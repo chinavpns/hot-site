@@ -374,7 +374,7 @@ OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工
 
 * <a href="https://github.com/chinavpns/cheapvpn.github.io">便宜VPN推荐</a>：推荐几款在中国好用且价格便宜的VPN，帮助你在节省开支的同时自由访问海外网站。
 
-* <a hre="https://github.com/chinavpns/freevpn.github.io">免费VPN推荐</a>：详细解析免费VPN优缺点，并推荐几款中国大陆免费VPN和国外永久免费VPN。
+* <a href="https://github.com/chinavpns/freevpn.github.io">免费VPN推荐</a>：详细解析免费VPN优缺点，并推荐几款中国大陆免费VPN和国外永久免费VPN。
 
 * <a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>：详解ExpressVPN怎么样、能在中国使用吗、连不上网怎么办和如何申请退款等。
 
