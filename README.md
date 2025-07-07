@@ -1,6 +1,6 @@
 # <p align="center">翻墙后看什么：2025年翻墙必看的国外网站推荐</p>
 
-<p align="center">最近更新于：2025年5月18日</p>
+<p align="center">最近更新于：2025年7月6日</p>
 
 ![翻墙后看什么：2025年翻墙必看的国外网站推荐](https://raw.githubusercontent.com/chinavpns/hot-site/refs/heads/main/image/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88.png)
 
@@ -397,3 +397,9 @@ OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工
 * <a href="https://github.com/chinavpns/youtube-download">油管视频下载</a>：推荐几个最好用的Youtube视频下载工具和Youtube在线下载网站。
 
 * <a href="https://github.com/chinavpns/video-site">国外视频网站</a>：热门海外视频网站汇总，包括国外付费视频网站和受欢迎的免费视频网站。
+
+* <a href="https://github.com/chinavpns/overseas-live">国外直播平台</a>：详细盘点全球范围内最受欢迎的几大海外直播平台，并深入介绍它们各自的特色和优势。
+
+* <a href="https://github.com/chinavpns/torrent-site">BT种子网站</a>：除了推荐BT网站外，还会介绍几款好用的BT下载工具，帮助大家更好地下载BT种子资源。
+
+* <a href="https://github.com/chinavpns/movie-site">免费电影网站</a>：推荐最新海外免费看片网站，无广告、无需会员、速度快，支持中文字幕和高清播放。
