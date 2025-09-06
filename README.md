@@ -18,7 +18,7 @@
 
 OK，以上两款便是为数不多在中国大陆依然非常好用的翻墙工具。它们不仅安全性高，能够解锁本文推荐的所有国外网站，而且连接速度在整个行业中也是名列前茅。这两款翻墙工具为所有常见设备都提供了专用的APP客户端。更棒的是，它们还提供24小时在线客服和30天退款保证，不满意可以随时全额退款！更多详情请参阅：<a href="https://chinavpns.github.io/">科学上网指南</a>。
 
-小提示：由于苹果中国区APP Store已下架所有跟VPN相关的软件，若想下载iOS VPN APP，请参阅<a href="https://github.com/chinavpns/iosvpn.github.io">苹果翻墙教程</a>。
+**小提示：由于苹果中国区APP Store已下架所有跟VPN相关的软件，若想下载iOS VPN APP，请参阅<a href="https://github.com/chinavpns/iosvpn.github.io">苹果翻墙教程</a>**。
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
