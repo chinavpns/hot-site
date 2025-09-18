@@ -1,6 +1,6 @@
 # <p align="center">翻墙后看什么：2025年翻墙必看的国外网站推荐</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![翻墙后看什么：2025年翻墙必看的国外网站推荐](https://raw.githubusercontent.com/chinavpns/hot-site/refs/heads/main/image/%E7%BF%BB%E5%A2%99%E5%90%8E%E7%9C%8B%E4%BB%80%E4%B9%88.png)
 
